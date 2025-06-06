@@ -1,0 +1,15 @@
+artifact_uri: file:///workspaces/MLOps-2025/02.ExperimentTracking/mlruns/0/6392557d2e0c45fe96e6700273cf2113/artifacts
+end_time: 1749177987260
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6392557d2e0c45fe96e6700273cf2113
+run_name: enthused-snipe-402
+run_uuid: 6392557d2e0c45fe96e6700273cf2113
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749177962991
+status: 4
+tags: []
+user_id: codespace
